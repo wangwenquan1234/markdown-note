@@ -48,3 +48,7 @@
 **语法**
 >  "[name] (link)" 中间不要有空格
 
+## 图片
+![百度logo](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png)
+
+
