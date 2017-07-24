@@ -67,7 +67,7 @@
 > ' *value* '
 
 ## 表格
-|col-1|col-2|col-3|
-|---|---|---|
-|aaa|bbb|ccc|
+|col-1 col-1|col-2 col-2|col-3 col-3|
+|:---|:---:|---:|
+|左对齐|居中对齐|右对齐|
 |aaa|bbb|ccc|
