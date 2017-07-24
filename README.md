@@ -74,3 +74,6 @@
 
 **语法**
 > ![语法](https://github.com/wangwenquan1234/markdown-note/blob/master/img/01.png)
+
+## 单行代码
+> '<script>'
