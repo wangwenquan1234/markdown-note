@@ -76,5 +76,19 @@
 > ![语法](https://github.com/wangwenquan1234/markdown-note/blob/master/img/01.png)
 
 ## 单行代码
-
 我需要在文中插入快捷键`ctrl+v`.
+
+## 多行代码
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	
+</body>
+</html>
+```
+
