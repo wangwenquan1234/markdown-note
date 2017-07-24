@@ -51,4 +51,17 @@
 ## 图片
 ![百度logo](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png)
 
+**语法**
+> "![name] (link)" 中间不要有空格
 
+## 粗体
+> 这是一段**文字**文字
+
+**语法**
+> ' **value** '
+
+##斜体
+> 这是一段*文字*文字
+
+**语法**
+> ' *value* '
