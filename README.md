@@ -76,4 +76,5 @@
 > ![语法](https://github.com/wangwenquan1234/markdown-note/blob/master/img/01.png)
 
 ## 单行代码
-'<script>'
+
+我需要在文中插入快捷键`ctrl+v`.
