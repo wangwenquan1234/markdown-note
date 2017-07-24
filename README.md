@@ -72,4 +72,5 @@
 |左对齐|居中对齐|右对齐|
 |aaa|bbb|ccc|
 
+**语法**
 > ![语法](https://github.com/wangwenquan1234/markdown-note/blob/master/img/01.png)
